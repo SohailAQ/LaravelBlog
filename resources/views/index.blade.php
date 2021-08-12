@@ -68,4 +68,28 @@
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 		</p>
 	</div>
+
+	<div class="sm:grid grid-cols-2 w-4/5 mx-auto">
+		<div class="flex bg-yellow-700 text-gray-100 pt-10">
+			<div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+				<span class="uppercase text-xs">
+					PHP
+				</span>
+				<h3 class="text-xl font-bold py-10">
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</h3>
+				<a href="" class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+					Find Out More
+				</a>
+			</div>
+		</div>
+		<div>
+			<img src="https://cdn.pixabay.com/photo/2015/12/09/15/51/code-1084923_960_720.png" width="700" alt="">
+		</div>
+	</div>
 @endsection
